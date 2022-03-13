@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "sddh",
+        "Email": "sddh@gmailcom",
+        "User_Name": "Asss111",
+        "Password": "anaaa@200",
+        "Gender": "male",
+        "Date_of_Birth": "2000-10-18",
+        "Image": "images\/shsg.png",
+        "Id": 1
+    },
+    {
+        "Name": "abc",
+        "Email": "abc@gmail.com",
+        "User_Name": "soikot11",
+        "Password": "112233",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-03-08",
+        "Image": "images\/images.png",
+        "Id": 2
+    }
+]
